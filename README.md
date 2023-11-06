@@ -1,14 +1,5 @@
-# kodluyoruzilkrepo
+# kodluyoruz first repo
 
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-
-## Keyifli bir kurstu.
-
-  
-
-***Her şey için çok teşekkürler.***
-
-  
 
 [Kodluyoruz Sayfamız](https://www.kodluyoruz.org/)
 
